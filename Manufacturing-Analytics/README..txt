@@ -211,7 +211,7 @@ Automated insight box
 
 Purpose: Control material waste & cost efficiency.
 
-🧠 Technologies Used
+Technologies Used
 
 Power BI
 
@@ -226,3 +226,4 @@ Operational Analytics
 Process Optimization
 
 Statistical Process Control (SPC)
+
