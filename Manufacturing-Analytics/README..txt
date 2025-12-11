@@ -1,10 +1,10 @@
 Manufacturing Operations Analytics – Power BI Project
 
-A complete end-to-end analytics solution for manufacturing operations, covering Production, Machine Efficiency, Scheduling & Delay, Energy Usage, Material Consumption, and Failure Analysis using a real-world–style dataset.
+A complete end-to-end analytics solution for manufacturing operations, covering Production, Machine Efficiency, Scheduling & Delay, Energy Usage, Material Consumption, and Failure Analysis.
 
 This project replicates what modern factories use for Operational Excellence (OPEX), TPM, Lean Manufacturing, Predictive Insights, and Cost Optimization.
 
-🔥 Key Highlights
+Key Highlights
 
 ✔ 8 fully interactive dashboards
 ✔ 30+ KPIs across performance, scheduling, efficiency, failures, energy & material
@@ -13,8 +13,9 @@ This project replicates what modern factories use for Operational Excellence (OP
 ✔ DAX-driven calculations with time intelligence & optimization metrics
 ✔ Designed as a full factory analytics system
 
-📊 Dashboard Pages Overview
-1️⃣ FILTERS PANEL (Global Slicers)
+Dashboard Pages Overview
+
+1️ FILTERS PANEL (Global Slicers)
 
 Global filters controlling all dashboards:
 
@@ -28,7 +29,7 @@ Optimization Category
 
 Purpose: Makes the entire report interactive for stakeholders.
 
-2️⃣ SUMMARY DASHBOARD
+2️ SUMMARY DASHBOARD
 
 A complete operational overview:
 
@@ -46,7 +47,7 @@ Failed jobs distribution by machine
 
 Purpose: High-level health check of factory performance.
 
-3️⃣ SCHEDULING & DELAY DASHBOARD
+3️ SCHEDULING & DELAY DASHBOARD
 
 KPIs:
 
@@ -72,7 +73,7 @@ Detailed delay table
 
 Purpose: Identify bottlenecks & find causes of late jobs.
 
-4️⃣ MACHINE EFFICIENCY DASHBOARD
+4️ MACHINE EFFICIENCY DASHBOARD
 
 KPIs:
 
@@ -100,7 +101,7 @@ Optimization Category distribution
 
 Purpose: Machine-level performance diagnostics & optimization.
 
-5️⃣ ENERGY ANALYTICS DASHBOARD
+5️ ENERGY ANALYTICS DASHBOARD
 
 KPIs:
 
@@ -126,7 +127,7 @@ Automated insights
 
 Purpose: Identify energy inefficiencies & cost-saving opportunities.
 
-6️⃣ FAILURE ANALYSIS DASHBOARD
+6️ FAILURE ANALYSIS DASHBOARD
 
 KPIs:
 
@@ -154,7 +155,7 @@ Operation-wise failure table
 
 Purpose: Detect failure patterns & risky processes.
 
-7️⃣ PRODUCTION DASHBOARD
+7️ PRODUCTION DASHBOARD
 
 KPIs:
 
@@ -182,7 +183,7 @@ Energy scatter by machine
 
 Purpose: Track output, throughput, and production stability.
 
-8️⃣ MATERIAL USAGE DASHBOARD
+8️ MATERIAL USAGE DASHBOARD
 
 KPIs:
 
